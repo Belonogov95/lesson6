@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RSS2</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="no_channels">Currently there are no channels.</string>
+    <string name="delete_button">Remove</string>
+    <string name="add_button">Add</string>
+    <string name="refresh_channel">Refresh channel!</string>
+    <string name="content_activity_empty">Curently there is no data</string>
+    <string name="hint_url">URL</string>
+</resources>
